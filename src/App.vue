@@ -1,6 +1,6 @@
 <template>
   <router-view id="app" />
-  <div>1111</div>
+  <div>11112</div>
   <div>
     <h2>测试一下</h2>
     <h3>第二次测试</h3>
