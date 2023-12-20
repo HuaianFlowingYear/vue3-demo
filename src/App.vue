@@ -1,5 +1,6 @@
 <template>
   <router-view id="app" />
+  <div>cs</div>
 </template>
 
 <style lang="less" scoped>
