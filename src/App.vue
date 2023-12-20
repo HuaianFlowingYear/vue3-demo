@@ -5,6 +5,7 @@
     <h3>第二次测试</h3>
     <h4>安俊涛第一次测试</h4>
   </div>
+  <p>wade</p>
 </template>
 
 <style lang="less" scoped>
