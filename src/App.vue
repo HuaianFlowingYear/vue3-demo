@@ -1,9 +1,6 @@
 <template>
   <router-view id="app" />
-  <div>
-    <h2>测试一下</h2>
-    <h3>第二次测试</h3>
-  </div>
+  <div></div>
 </template>
 
 <style lang="less" scoped>
