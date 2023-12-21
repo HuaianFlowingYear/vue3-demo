@@ -1,8 +1,7 @@
+<script setup></script>
 <template>
   <router-view id="app" />
-  <div></div>
 </template>
-
 <style lang="less" scoped>
 .app {
   position: absolute;
